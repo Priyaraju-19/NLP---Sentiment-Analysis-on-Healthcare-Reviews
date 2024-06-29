@@ -77,3 +77,5 @@ Evaluate the trained models and generate performance metrics:
 ```bash
 python src/evaluate_model.py
 ```
+## Conclusion
+In this project, we explored sentiment analysis on healthcare reviews using various natural language processing (NLP) techniques and machine learning models. The primary objective was to classify reviews into different sentiment categories (positive, negative, and neutral) to gain insights into patient satisfaction and identify areas for improvement in healthcare services.
